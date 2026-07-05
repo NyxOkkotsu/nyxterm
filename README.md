@@ -1,4 +1,3 @@
-```markdown
 # NyxTerm
 
 A minimalist, lightweight, and fast terminal emulator built using C, GTK3, and VTE. NyxTerm is designed specifically for high performance and low memory consumption, keeping things simple without unnecessary bloatware. 
@@ -9,8 +8,7 @@ It features native background transparency, adjustable character spacing, and ou
 
 Before compiling, make sure your system has a C compiler, Make, and the development headers for GTK3 and VTE.
 
-
-```
+---
 
 Debian / Ubuntu / Pop!_OS:
 
