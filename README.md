@@ -97,7 +97,3 @@ scrollback_lines 10000
 
 * **Ctrl + Shift + C**: Copy selected text to the clipboard.
 * **Ctrl + Shift + V**: Paste text from the clipboard.
-
-```
-
-```
