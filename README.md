@@ -9,10 +9,13 @@ It features native background transparency, adjustable character spacing, and ou
 
 Before compiling, make sure your system has a C compiler, Make, and the development headers for GTK3 and VTE.
 
+
+```
+
 Debian / Ubuntu / Pop!_OS:
+
 ```bash
 sudo apt install build-essential libgtk-3-dev libvte-2.91-dev
-
 ```
 
 Arch Linux / Manjaro:
